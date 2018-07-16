@@ -72,13 +72,8 @@ body,html{background-color:#4ea6ff;}
 .page-5-1.page-current .txt2{-webkit-animation:fadeIn 1s 0.5s ease both;}
 .page-5-1.page-current .img2{-webkit-animation:fadeIn 1s 0.5s ease both;}
 .page-5-1.page-current .img3{-webkit-animation:formBottom 1s 1s ease both;}
-<<<<<<< HEAD
 .page-5-1 .txt2{text-align: left;font-size: 0.613333rem;line-height:0.62rem;color: #fff;background: url(../images/p1_b.png) 0 0 no-repeat;background-size:contain;padding-left:0.666667rem;margin-top:0.6rem;margin-left: 1.546667rem;}
 .page-5-1 .txt2 i{font-size: 0.373333rem; font-style: normal;padding-left: 3px;}
-=======
-.page-5-1.page-current .table{width:80%;margin-left:10%;color:#fff;margin-top:0.5rem;}
-.page-5-1.page-current .table tr td,th{border-bottom:1px solid rgba(255,255,255,0.5);color:#fff;}
->>>>>>> 18d3cc10dd46b79458538ee87e6618dba53bc804
 
 .page-6-1 .txt1{width: 8.4rem;top:0;left:0.8rem;position: absolute;padding-top:1rem;box-sizing: border-box;height:100%;text-align: center;}
 .page-6-1 .img1{position: initial;width: 4.0rem;margin: 0 auto;}
