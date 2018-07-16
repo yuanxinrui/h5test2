@@ -25,15 +25,20 @@ body,html{background-color:#4ea6ff;}
 
 .page-2-1 .txt1{width: 8.4rem;top:0;left:0.8rem;position: absolute;padding-top:1rem;box-sizing: border-box;height:100%;text-align: center;}
 .page-2-1 .img1{position: initial;width: 4.0rem;margin: 0 auto;}
-.page-2-1 .img2{width:100%; margin-top: 0.6rem;position: initial;}
+.page-2-1 .img2{width:100%; margin: 0 auto;position: initial;}
 .page-2-1 .img3{width:5.96rem;margin: 0 auto; position: initial;}
 .page-2-1 .txt2{text-align: left;font-size: 0.613333rem;line-height:0.62rem;color: #fff;background: url(../images/p1_b.png) 0 0 no-repeat;background-size:contain;padding-left:0.666667rem;margin-top:0.6rem;margin-left: 1.546667rem;}
 .page-2-1 .txt2 i{font-size: 0.373333rem; font-style: normal;padding-left: 3px;}
+.page-2-1 .table{width:90%;margin-left:5%;}
+.page-2-1 .table tr th{border-bottom:2px solid #fff;color:#fff;}
+.page-2-1 .table tr td{border-bottom:1px solid #fff;color:#fff;}
 
 .page-2-1.page-current .img1{-webkit-animation:dropDown1 1s 0s ease both;}
 .page-2-1.page-current .txt2{-webkit-animation:fadeIn 1s 0.5s ease both;}
 .page-2-1.page-current .img2{-webkit-animation:fadeIn 1s 0.5s ease both;}
 .page-2-1.page-current .img3{-webkit-animation:formBottom 1s 1s ease both;}
+.page-2-1.page-current .table{-webkit-animation:fadeIn 1s 0.5s ease both;}
+
 
 
 .page-3-1 .txt1{width: 8.4rem;top:0;left:0.8rem;position: absolute;padding-top:1rem;box-sizing: border-box;height:100%;text-align: center;}
@@ -81,6 +86,9 @@ body,html{background-color:#4ea6ff;}
 .page-6-1 .img3{width:5.96rem;margin: 0 auto; position: initial;}
 .page-6-1 .txt2{text-align: left;font-size: 0.613333rem;line-height:0.62rem;color: #fff;background: url(../images/p1_b.png) 0 0 no-repeat;background-size:contain;padding-left:0.666667rem;margin-top:0.6rem;margin-left: 1.546667rem;}
 .page-6-1 .txt2 i{font-size: 0.373333rem; font-style: normal;padding-left: 3px;}
+.page-6-1 .table{width:90%;margin-left:5%;}
+.page-6-1 .table tr th{border-bottom:2px solid #fff;color:#fff;}
+.page-6-1 .table tr td{border-bottom:1px solid #fff;color:#fff;}
 
 .page-6-1.page-current .img1{-webkit-animation:dropDown1 1s 0s ease both;}
 .page-6-1.page-current .txt2{-webkit-animation:fadeIn 1s 0.5s ease both;}
